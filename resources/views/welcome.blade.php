@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    LearnGit Test
                 </div>
 
                 <div class="links">
